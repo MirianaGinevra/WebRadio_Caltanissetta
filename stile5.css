@@ -5,6 +5,7 @@ body{ padding:none;
       font-family: Helvetica;
       font-weight:bold;
       font-size:15px;
+      
   }
   .navbar {
       display: flex;
@@ -55,3 +56,33 @@ body{ padding:none;
                    font-size: 20px;
                    color:#FA9C04;
                 }
+               
+              .Iclasse{display:flex;
+              margin-left:120px;
+            gap: 50px;
+          margin-top: 50px;
+          
+        }
+            .desc{font-size: 20px;
+            font-weight: 400;}
+            .IIclasse { 
+              margin-top: 0;
+              margin-left: 120px;
+              position: relative;
+              display: inline-block;
+              margin-bottom: 50px;
+            }
+          
+            .numero{
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              background-color: #FA9C04;
+              color: #ffffff;
+              padding: 10px 20px;
+              border: none;
+              border-radius: 5px;
+              font-size: 16px;
+              cursor: pointer;
+            }
