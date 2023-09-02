@@ -89,7 +89,8 @@ body{ padding:none;
                 margin-left:120px;
                 margin-right: 60px;
                 justify-content: space-between;
-            margin-top: 0;}
+            margin-top: 0;
+          }
                 .button1{
                     padding: 0;
                     box-sizing: border-box;
@@ -101,6 +102,9 @@ body{ padding:none;
                     border-radius: 50px;
                     padding: 15px 40px;
                     cursor: pointer;
+                    position:absolute;
+                    top:94%;
+                    left:43%;
                     transition: background-color 0.2s ease;}
                     .button1 span{color: white;
                         margin-right: 10px;
@@ -118,6 +122,10 @@ body{ padding:none;
                 border-radius: 50px;
                 padding: 15px 40px;
                 cursor: pointer;
+                position:absolute;
+                    top:94%;
+                    left:8%;
+                
                 transition: background-color 0.2s ease;}
                 .button2 span{color: white;
                     margin-right: 10px;
@@ -135,7 +143,11 @@ body{ padding:none;
                         border-radius: 50px;
                         padding: 15px 40px;
                         cursor: pointer;
-                        transition: background-color 0.2s ease;}
+                        transition: background-color 0.2s ease;
+                        position:absolute;
+                        top:94%;
+                        left:77%;
+                    }
                         .button3 span{color: white;
                             margin-right: 10px;
                             font-size: 18px;
@@ -151,7 +163,9 @@ body{ padding:none;
                                 margin-right: 60px;
                                 justify-content: space-between;
                             margin-top: 0;}
-                                .button4{
+                                .button4{  position:absolute;
+                                  top:145%;
+                                  left:10%;              
                                     padding: 0;
                                     box-sizing: border-box;
                                     display: flex;
@@ -169,7 +183,10 @@ body{ padding:none;
                                       font-weight: 600; }
                                       .button4:hover {
                                         background-color: darkorange;}
-                              .button5{ padding: 0;
+                              .button5{ position:absolute;
+                                top:145%;
+                                left:44%;    
+                                padding: 0;
                                 box-sizing: border-box;
                                 display: flex;
                                 align-items: center;
@@ -186,7 +203,10 @@ body{ padding:none;
                                   font-weight: 600; }
                                   .button5:hover {
                                     background-color: darkorange;}
-                             .button6{ padding: 0;
+                             .button6{ position:absolute;
+                              top:145%;
+                              left:78%; 
+                              padding: 0;
                                 box-sizing: border-box;
                                 display: flex;
                                 align-items: center;

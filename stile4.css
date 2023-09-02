@@ -69,7 +69,7 @@ body{ padding:none;
                 .griglia{
                     display: grid;
                     grid-template-columns: 1fr 1fr; 
-                    grid-gap: 20px;
+                    grid-gap: 10px;
                     margin: 0;
                 }
         
@@ -83,7 +83,9 @@ body{ padding:none;
                     max-width: 100%;
                 }
         
-                .piero {
+                .piero {position:absolute;
+                  top:77%;
+                  left:0,1%; 
                     padding: 0;
                     margin-left: 250px;
                     box-sizing: border-box;
@@ -106,7 +108,9 @@ body{ padding:none;
                         .dj2{
                             text-align: center;
                             margin-top: 0;}
-                        .mauri {
+                        .mauri {position:absolute;
+                          top:77%;
+                          left:50%; 
                             padding: 0;
                             margin-left: 290px;
                             box-sizing: border-box;
@@ -129,7 +133,9 @@ body{ padding:none;
                                 .dj3{
                                     text-align: center;
                                     margin-top: 100px;}
-                                    .enrico {
+                                    .enrico {position:absolute;
+                                      top:137%;
+                                      left:0,2%; 
                                         padding: 0;
                                         margin-left: 270px;
                                         box-sizing: border-box;
@@ -152,7 +158,9 @@ body{ padding:none;
                                             .dj4{
                                                 text-align: center;
                                                 margin-top: 100px;}
-                                                .miche {
+                                                .miche {position:absolute;
+                                                  top:137%;
+                                                  left:51%; 
                                                     padding: 0;
                                                     margin-left: 250px;
                                                     box-sizing: border-box;
