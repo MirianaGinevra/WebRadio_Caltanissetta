@@ -48,10 +48,10 @@ body{ padding:none;
                     font-size: 25px;
                 font-weight: bolder;
                 color: black;
-                margin-top: 120px;
-                margin-left: 120px;}
+                margin-top: 90px;
+                margin-left: 90px;}
                 .titolo{margin-top:0px;
-                    margin-left:120px;
+                    margin-left:90px;
                    font-size: 20px;
                    color:#FA9C04;
                 }
@@ -60,9 +60,9 @@ body{ padding:none;
                 padding:20px}
                 .par1{font-size: 15px;
                 font-weight: 300;
-            margin-left: 100px;}
+            margin-left: 70px;}
                 .click{
-                    margin-left: 90px;
+                    margin-left: 70px;
                     margin-top:20px;
                     padding: 0;
                     box-sizing: border-box;
@@ -82,15 +82,23 @@ body{ padding:none;
                 font-weight: 600;}
             .click:hover {
               background-color: darkcyan;}
+           
+
               .prima{ display: flex;
             margin-left:60px;
-            justify-content: space-between;}
-            .button{display: flex;
+            justify-content: space-between;
+              }
+           
+            .button{
+              display: flex;
                 margin-left:120px;
                 margin-right: 60px;
                 justify-content: space-between;
             margin-top: 0;
-          }
+            list-style: none;
+            }
+
+        
                 .button1{
                     padding: 0;
                     box-sizing: border-box;
@@ -162,7 +170,7 @@ body{ padding:none;
                                 margin-left:120px;
                                 margin-right: 60px;
                                 justify-content: space-between;
-                            margin-top: 0;}
+                            margin-top: 0;list-style: none;}
                                 .button4{  position:absolute;
                                   top:145%;
                                   left:10%;              

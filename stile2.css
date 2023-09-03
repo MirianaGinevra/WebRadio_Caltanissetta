@@ -47,16 +47,16 @@ color:#FA9C04};
     font-size: 25px;
 font-weight: bolder;
 color: black;
-margin-top: 120px;
-margin-left: 120px;}
+margin-top: 90px;
+margin-left: 90px;}
 .titolo{margin-top:0px;
-    margin-left:120px;
+    margin-left:90px;
    font-size: 20px;
    color:#FA9C04;
 }
 .start{display: flex;}
 .f1{margin-left: 300px;}
-.freq{margin-left:120px;
+.freq{margin-left:90px;
 margin-top: 50px;
 }
 .container {
@@ -67,7 +67,7 @@ margin-top: 50px;
 }
 .box {
   display: flex;
-  margin-left: 120px;
+  margin-left: 90px;
 }
 .desc{font-size:20px;
 font-weight: 300;}

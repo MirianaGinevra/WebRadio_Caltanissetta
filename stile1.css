@@ -42,8 +42,8 @@ margin-right:150px};
         margin-right: 150px;}
         .cn{margin-left: 100px;
             margin-right: 100px;}
-.titolo{margin-top:120px;
-      margin-left: 100px;
+.titolo{margin-top:90px;
+      margin-left: 90px;
       margin-right:150px;
      font-size: 20px;
      color:#FA9C04;
@@ -57,13 +57,13 @@ margin-right:150px};
        .mic {
         max-width: 450px; 
         margin-right:250px;} 
-          .slogan {margin-left: 100px;
+          .slogan {margin-left: 90px;
             font-size: 30px;
             font-weight: bolder;
             color: #000;
           }
            .slogan1 {
-            margin-left: 100px;
+            margin-left: 90px;
             margin-top: 90px; 
         font-size: 20px;
       font-weight: 400;
@@ -117,9 +117,9 @@ margin-top: 50px;
 font-size: 15px;
 line-height: 20px;
 font-weight: 100;
-margin-left: 100px;}
+margin-left: 90px;}
 .click{ display: inline-block;
-  margin-left: 100px;
+  margin-left: 90px;
   margin-top: 20px;
   background-color: #01ACAC;
   font-size: 15px;

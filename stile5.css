@@ -49,10 +49,10 @@ body{ padding:none;
                     font-size: 25px;
                 font-weight: bolder;
                 color: black;
-                margin-top: 120px;
-                margin-left: 120px;}
+                margin-top: 90px;
+                margin-left: 90px;}
                 .titolo{margin-top:0px;
-                    margin-left:120px;
+                    margin-left:90px;
                    font-size: 20px;
                    color:#FA9C04;
                 }
@@ -60,7 +60,7 @@ body{ padding:none;
                   display: flex;
                   flex-direction: row;
                   display:flex;
-                  margin-left:120px;
+                  margin-left:90px;
                 gap: 50px;
               margin-top: 50px;
               }
@@ -73,12 +73,12 @@ body{ padding:none;
                   margin-right: 100px;}
                   .IIclass {
                     display: inline-block;
-                    margin-left: 100px;
+                    margin-left: 90px;
                     
                     
                 }
                   .numero { display: inline-block;
-                    margin-left: 150px;
+                    margin-left: 90px;
                     margin-bottom: 0;
                     
                 }
@@ -136,7 +136,7 @@ body{ padding:none;
                   display: flex;
                   flex-direction: row;
                   display:flex;
-                  margin-left:120px;
+                  margin-left:90px;
                 gap: 50px;
               margin-top: 50px;
               }
